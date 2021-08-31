@@ -1,7 +1,7 @@
 # Basic-Formik-Form
 A simple login form using formik and react
 
-##Executing program
+##Executing program:
 Create a React App
     npx create-react-app title
     cd title
