@@ -1,5 +1,5 @@
 # Basic-Formik-Form
-A simple login form using formik and react
+A simple login form using formik and react with validation
 
 ## Executing program:  
 #### Create a React App  
