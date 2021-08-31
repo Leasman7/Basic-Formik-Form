@@ -1,7 +1,7 @@
 # Basic-Formik-Form
 A simple login form using formik and react
 
-#Executing program:  
+## Executing program:  
 Create a React App
     npx create-react-app title
     cd title
@@ -11,7 +11,7 @@ Start the development server
     npm start
 Use app.js for form
 
-#License:  
+## License:  
 See license file
 
 
